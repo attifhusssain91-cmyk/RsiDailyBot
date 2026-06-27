@@ -1,0 +1,5 @@
+--only-binary :all:
+ccxt==4.2.82
+pandas==2.2.2
+requests==2.32.3
+pytz==2024.1
